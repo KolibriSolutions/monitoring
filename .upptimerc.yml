@@ -21,7 +21,7 @@ status-website:
   name: "Kolibri Solutions Status Monitoring"
   introTitle: "Status Monitoring of Kolibri Solutions Products"
   introMessage: "This websites shows realtime monitoring and incident handling of all Kolibri Solutions products"
-  theme: ocean
+  theme: dark
   navbar:
     - title: Status
       href: /
