@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 2155,
-    "timeWeek": 1252,
-    "timeMonth": 724,
-    "timeYear": 600,
+    "time": 605,
+    "timeDay": 1239,
+    "timeWeek": 1329,
+    "timeMonth": 747,
+    "timeYear": 605,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bep.ele.tue.nl.ico",
     "slug": "bep-marketplace",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.22%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.64%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "99.22%",
     "time": 803,
-    "timeDay": 1079,
-    "timeWeek": 789,
-    "timeMonth": 808,
+    "timeDay": 0,
+    "timeWeek": 752,
+    "timeMonth": 810,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-01-12": 10
+      "2025-01-13": 62,
+      "2025-01-12": 1386
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/master.ele.tue.nl.ico",
     "slug": "master-marketplace",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.22%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.64%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "99.22%",
     "time": 796,
-    "timeDay": 1016,
-    "timeWeek": 775,
-    "timeMonth": 797,
+    "timeDay": 0,
+    "timeWeek": 731,
+    "timeMonth": 799,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2025-01-12": 10
+      "2025-01-13": 62,
+      "2025-01-12": 1385
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/examination.master.ele.tue.nl.ico",
     "slug": "m-sc-graduation-project-assessment-form",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.22%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "99.22%",
     "time": 943,
-    "timeDay": 1284,
-    "timeWeek": 1032,
-    "timeMonth": 960,
+    "timeDay": 0,
+    "timeWeek": 949,
+    "timeMonth": 966,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-01-12": 9
+      "2025-01-13": 62,
+      "2025-01-12": 1385
     }
   },
   {
@@ -88,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 707,
-    "timeWeek": 545,
-    "timeMonth": 578,
-    "timeYear": 596,
+    "time": 595,
+    "timeDay": 456,
+    "timeWeek": 509,
+    "timeMonth": 577,
+    "timeYear": 595,
     "dailyMinutesDown": {}
   }
 ]
